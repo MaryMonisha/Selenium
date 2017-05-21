@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[sssss]]>
+    </line>
+    <line>
+      <![CDATA[sssss]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2017-05-09T08:15:29Z" finished-at="2017-05-09T08:15:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2017-05-09T08:15:29Z" finished-at="2017-05-09T08:15:30Z">
+      <class name="testng.Testing">
+        <test-method status="PASS" signature="TestA()[pri:0, instance:testng.Testing@4de8b406]" name="TestA" duration-ms="3" started-at="2017-05-09T13:45:30Z" finished-at="2017-05-09T13:45:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[sssss]]>
+            </line>
+            <line>
+              <![CDATA[sssss]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TestA -->
+      </class> <!-- testng.Testing -->
+      <class name="testng.NewTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:testng.NewTest@66d2e7d9]" name="f" duration-ms="11" started-at="2017-05-09T13:45:29Z" finished-at="2017-05-09T13:45:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
